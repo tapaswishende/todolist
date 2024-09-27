@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# Live demo vercel link (https://todolist-18ms0wtbl-tapaswi-shendes-projects.vercel.app/)
+
 First, run the development server:
 
 ```bash
